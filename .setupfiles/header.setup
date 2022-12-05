@@ -1,0 +1,8 @@
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="setupfiles/style.css"/>
+#+HTML_HEAD: <script type="text/javascript" src="setupfiles/script.js"></script>
+#+Options: HTML-Postamble:nil # HTML-страница без футера.
+#+OPTIONS: html-link-use-abs-url:nil html-postamble:auto
+#+OPTIONS: html-preamble:t html-scripts:t html-style:t
+#+OPTIONS: html5-fancy:nil tex:t
+#+LANGUAGE:    ru
+#+OPTIONS: toc:nil 

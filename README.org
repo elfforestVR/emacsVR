@@ -1,0 +1,6 @@
+#+TITLE: README
+#+AUTHOR: Ryazansev Vladimir
+#+EMAIL: 361elfforest@gmail.org
+#+SETUPFILE: ./.setupfiles/header.setup
+#+Options: HTML-Postamble:nil # HTML-страница без футера.
+[[file:.setupfiles/github-header-image.png]]
